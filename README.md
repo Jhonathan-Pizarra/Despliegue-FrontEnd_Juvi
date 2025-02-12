@@ -154,12 +154,12 @@ realizados por <strong><a href="https://www.tiktok.com/@juvyexpress/video/725054
 
 <p>Por último, la app se encuentra desplegada y disponible en:</p>
 <blockquote>
-    <code>Google:</code> <i><a href="https://google.app" target="_blank">https://drive.google.com/file/d/1v7r3V8SgB-JMGqsrTbItUwqxb22LPqYE/view?usp=sharing</a></i>
+    <code>Google:</code> <i><a href="https://drive.google.com/file/d/1v7r3V8SgB-JMGqsrTbItUwqxb22LPqYE/view?usp=sharing" target="_blank">https://google.app</a></i>
 </blockquote>
 
 <p>Su API está disponible en:</p>
 <blockquote>
-    <code>Render:</code> <i><a href="https://juviexpresapp.onrender.com" target="_blank">https://juviexpresapp-2025.onrender.com</a></i>
+    <code>Render:</code> <i><a href="https://juviexpresapp-2025.onrender.com" target="_blank">https://juviexpresapp.onrender.com</a></i>
 </blockquote>
 
 
